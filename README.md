@@ -1,6 +1,10 @@
 SuperCollider Spacemacs Layer
 =============================
 
+forked from dathinaios'
+[spacemacs-supercollider](https://github.com/dathinaios/spacemacs-supercollider)
+layer, modified for the default directories on debian / ubuntu.
+
 [SuperCollider](http://supercollider.github.io/download.html) layer for [Spacemacs](http://spacemacs.org/).
 
 # Installation
